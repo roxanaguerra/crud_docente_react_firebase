@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/crud_docente_react_firebase/static/css/main.0d8f200b.chunk.css",
+    "main.js": "/crud_docente_react_firebase/static/js/main.0cb12feb.chunk.js",
+    "main.js.map": "/crud_docente_react_firebase/static/js/main.0cb12feb.chunk.js.map",
+    "runtime-main.js": "/crud_docente_react_firebase/static/js/runtime-main.41fa60e7.js",
+    "runtime-main.js.map": "/crud_docente_react_firebase/static/js/runtime-main.41fa60e7.js.map",
+    "static/css/2.942eeefe.chunk.css": "/crud_docente_react_firebase/static/css/2.942eeefe.chunk.css",
+    "static/js/2.a2b430d6.chunk.js": "/crud_docente_react_firebase/static/js/2.a2b430d6.chunk.js",
+    "static/js/2.a2b430d6.chunk.js.map": "/crud_docente_react_firebase/static/js/2.a2b430d6.chunk.js.map",
+    "static/js/3.94f39a03.chunk.js": "/crud_docente_react_firebase/static/js/3.94f39a03.chunk.js",
+    "static/js/3.94f39a03.chunk.js.map": "/crud_docente_react_firebase/static/js/3.94f39a03.chunk.js.map",
+    "static/js/4.00b60265.chunk.js": "/crud_docente_react_firebase/static/js/4.00b60265.chunk.js",
+    "static/js/4.00b60265.chunk.js.map": "/crud_docente_react_firebase/static/js/4.00b60265.chunk.js.map",
+    "static/js/5.bf320fdf.chunk.js": "/crud_docente_react_firebase/static/js/5.bf320fdf.chunk.js",
+    "static/js/5.bf320fdf.chunk.js.map": "/crud_docente_react_firebase/static/js/5.bf320fdf.chunk.js.map",
+    "static/js/6.52b55fe4.chunk.js": "/crud_docente_react_firebase/static/js/6.52b55fe4.chunk.js",
+    "static/js/6.52b55fe4.chunk.js.map": "/crud_docente_react_firebase/static/js/6.52b55fe4.chunk.js.map",
+    "index.html": "/crud_docente_react_firebase/index.html",
+    "static/css/2.942eeefe.chunk.css.map": "/crud_docente_react_firebase/static/css/2.942eeefe.chunk.css.map",
+    "static/css/main.0d8f200b.chunk.css.map": "/crud_docente_react_firebase/static/css/main.0d8f200b.chunk.css.map",
+    "static/js/2.a2b430d6.chunk.js.LICENSE.txt": "/crud_docente_react_firebase/static/js/2.a2b430d6.chunk.js.LICENSE.txt",
+    "static/js/3.94f39a03.chunk.js.LICENSE.txt": "/crud_docente_react_firebase/static/js/3.94f39a03.chunk.js.LICENSE.txt",
+    "static/js/4.00b60265.chunk.js.LICENSE.txt": "/crud_docente_react_firebase/static/js/4.00b60265.chunk.js.LICENSE.txt",
+    "static/js/5.bf320fdf.chunk.js.LICENSE.txt": "/crud_docente_react_firebase/static/js/5.bf320fdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41fa60e7.js",
+    "static/css/2.942eeefe.chunk.css",
+    "static/js/2.a2b430d6.chunk.js",
+    "static/css/main.0d8f200b.chunk.css",
+    "static/js/main.0cb12feb.chunk.js"
+  ]
+}
